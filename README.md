@@ -1,5 +1,8 @@
-# Income Prediction
+# Previsão de Renda
 
-This project was developed using Streamlit.
+Este projeto foi desenvolvido utilizando o Streamlit e programação em Python. 
+Modelo de árvore de regressão para previsão de valores de renda, com análise visual exploratória.
 
-insert link here (arrastar o arquivo aqui)
+
+https://github.com/lucidatasci/income-prediction/assets/50838440/a01b473a-cc8f-4ed3-a7bc-28d575d2c335
+
