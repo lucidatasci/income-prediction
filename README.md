@@ -1,6 +1,6 @@
 # Previsão de Renda
 
-Este projeto foi desenvolvido utilizando o Streamlit e programação em Python. 
+Este projeto foi desenvolvido utilizando Streamlit e programação em Python. 
 Modelo de árvore de regressão para previsão de valores de renda, com análise visual exploratória.
 
 
